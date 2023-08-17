@@ -45,4 +45,4 @@ node m1.js
 node m2.js
 ```
 
-Теперь вы можете открыть браузер и протестировать систему как показано в видео.
+Теперь вы можете открыть браузер и протестировать систему как показано в [видео](https://drive.google.com/file/d/1OzJ6Yr_fgtObEEUQF4aj7ivG5F_kjlyB/view?usp=drive_link).
